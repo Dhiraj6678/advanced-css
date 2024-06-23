@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to right, #0528eed2, #feb47b); /* Example gradient colors */
+    font-family: Arial, sans-serif;
+    color: #fff;
+}
+
+.content {
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.5); /* Adding a semi-transparent background to make text more readable */
+    padding: 20px;
+    border-radius: 10px;
+}
+
